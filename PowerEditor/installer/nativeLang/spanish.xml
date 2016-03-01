@@ -704,7 +704,7 @@
 					<Item id="6723" name="Añadir"/>
 					<Item id="6725" name="Variable:"/>
 					<Item id="6727" name="Mostrar sus ajustes variables"/>
-					<Item id="6728" name="Cabecera y pie de página"/>
+					<Item id="6728" name="Encabezado y pie de página"/>
 				</Print>
 				<RecentFilesHistory title="Archivos recientes">
 					<Item id="6304" name="Historial de archivos recientes"/>
